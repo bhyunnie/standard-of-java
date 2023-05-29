@@ -1,12 +1,10 @@
 # 📚 자바를 시작하기 전에
 
 ### 목차
-[자바(JAVA)란?](###자바(JAVA)란?)
-[JVM 이란?](###JVM-이란?)
++ [자바(JAVA)란?](#자바(JAVA)란?)
++ [JVM 이란?](#JVM-이란?)
 
-
----
-### 자바(JAVA)란?
+# 자바(JAVA)란?
 운영체제에 독립적이다
 
 ㄴ 자바는 JAR (JAVA ARCHIVE) 혹은 WAR (WEB ARCHIVE) 로 컴파일된다. JAR 와 WAR 파일을 JVM 에서 실행하기 때문에 운영체제에 독립적일 수 있다.
@@ -36,7 +34,7 @@
 ㄴ 실행 시 모든 클래스를 로딩하지 않고 필요한 시점에 따라 클래스를 로딩하기 때문에 효율적이다.
 
 ---
-### JVM 이란?
+# JVM 이란?
 Java Virtual Machine 으로 OS 위에서 동작하는 VM 의 일종이다.
 
 <img width="265" alt="image" src="https://github.com/bhyunnie/standard-of-java/assets/129918927/22952a23-4c2a-418a-b32f-511020807c9f">
