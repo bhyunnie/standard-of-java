@@ -1,10 +1,10 @@
 # 📚 자바를 시작하기 전에
 
 ### 목차
-+ [자바(JAVA)란?](#자바java란)
++ [자바(JAVA)란?](#-자바java란)
 + [JVM 이란?](#jvm-이란)
 
-# 자바(JAVA)란?
+# ✍️ 자바(JAVA)란?
 운영체제에 독립적이다
 
 ㄴ 자바는 JAR (JAVA ARCHIVE) 혹은 WAR (WEB ARCHIVE) 로 컴파일된다. JAR 와 WAR 파일을 JVM 에서 실행하기 때문에 운영체제에 독립적일 수 있다.
